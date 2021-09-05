@@ -7,9 +7,9 @@ public class Solution02 {
 
     public static void main(String[] args) {
 	/*
-		print: What is the input string?
-	    'userInput' = read string from user
-		print: 'userInput' has userInput.length characters.
+        print: What is the input string?
+        'userInput' = read string from user
+        print: 'userInput' has userInput.length characters.
 	*/
         Scanner input = new Scanner(System.in);
         System.out.print("What is the input string? ");
